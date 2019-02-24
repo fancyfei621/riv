@@ -1,0 +1,11 @@
+program,R1,R2,R3,R4,R5,R6,R7,R8,R9
+ps_nursing,College Transcript,Entrance Exam,Final High School Transcript,Recommendation Letter,Statement of Pupose,,,,
+ps_notnursing,College Transcript,Final High School Transcript,Recommendation Letter,Statement of Pupose,,,,,
+grad_nursing,College Transcript,Course of Study Sheet,Official Transcript Reflecting Bachelors Degree Earned,Rec Letter from Nurse Leader,Recommendation Letter,Resume,RN Licensure,RN Transcript ,Statement of Pupose
+grad_notnursing,College Transcript,Official Transcript Reflecting Bachelors Degree Earned,Recommendation Letter,Statement of Pupose,,,,,
+grad_international,College Transcript,Copy of Current Visa or Passport,English Proficiency,Evaluation of Transcript,Financial Statement,Recommendation Letter,Sponsorship Statement,Statement of Pupose,
+doctorate,College Transcript,MAT or GRE Scores,Recommendation Letter,Resume,Statement of Pupose,,,,
+day_nursing_firsttime,Final High School Transcript,Official High School Transcript,Recommendation Letter,SAT Scores,,,,,
+day_notnursing_firsttime,Final High School Transcript,Official High School Transcript,Recommendation Letter,,,,,,
+day_nursing_transfer,College Transcript,Entrance Exam,Final High School Transcript,Official High School Transcript,Recommendation Letter,SAT Scores,,,
+day_notnursing_transfer,College Transcript,Final High School Transcript,Official High School Transcript,Recommendation Letter,,,,,
